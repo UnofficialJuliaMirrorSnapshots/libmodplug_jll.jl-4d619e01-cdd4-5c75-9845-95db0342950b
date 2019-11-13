@@ -1,0 +1,113 @@
+[[libmodplug]]
+arch = "armv7l"
+git-tree-sha1 = "0f58de215578aa373b12a20be4ec0d3fb1d051a0"
+libc = "musl"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "53e72fd0e9ad480a57bd74fcbc6d8043bce2c7efbd759f61a33f02445d3e9266"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.arm-linux-musleabihf.tar.gz"
+[[libmodplug]]
+arch = "powerpc64le"
+git-tree-sha1 = "aa22f0c756696ef7132ce071b57d69e2a2eb6cd7"
+libc = "glibc"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "f16976e462caabfd0e52832563ee79952507abbf286cca91ec89f6a5b26be9f5"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.powerpc64le-linux-gnu.tar.gz"
+[[libmodplug]]
+arch = "x86_64"
+git-tree-sha1 = "2922a2a3a45d014ebdea6eb4ecebcd10212ed55f"
+os = "macos"
+
+    [[libmodplug.download]]
+    sha256 = "fff743ea9bfef0e5ebea8c9fbb1158d5d3e00bb1a24b601a5f0db7290b41c731"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.x86_64-apple-darwin14.tar.gz"
+[[libmodplug]]
+arch = "aarch64"
+git-tree-sha1 = "10cbf51d5d107733b4780ab277e4b9af828e93ca"
+libc = "glibc"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "c9bdcb13f1d32623f73580b435e22d764b3f22006bfd3d4a3100df51b45a7607"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.aarch64-linux-gnu.tar.gz"
+[[libmodplug]]
+arch = "armv7l"
+git-tree-sha1 = "e7f01f32db57a1df9fba053e0c2d94f20f412fba"
+libc = "glibc"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "f89c520ad1e36789cc02110cc356095a544cce8be6f8f18782a3d3216c3ee411"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.arm-linux-gnueabihf.tar.gz"
+[[libmodplug]]
+arch = "i686"
+git-tree-sha1 = "6b4bc35403d9a541d4e2724c27f0dc18cc88d33b"
+libc = "musl"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "39f82d529df7e150047e82bb423b4291cbdffee9651e6485f77cb74e7d28b60f"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.i686-linux-musl.tar.gz"
+[[libmodplug]]
+arch = "x86_64"
+git-tree-sha1 = "fbcf6d3af29db41a92699737da2913a67a2f80ee"
+libc = "glibc"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "c153a8a4069ce3b4dcdb53306e122fd3df4114cdf0601a9dceaea32986fea29b"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.x86_64-linux-gnu.tar.gz"
+[[libmodplug]]
+arch = "x86_64"
+git-tree-sha1 = "5b9da9d60e50a9f8e27b8fd660ec7c611df2d721"
+os = "windows"
+
+    [[libmodplug.download]]
+    sha256 = "f7b7700f166159e5cb9b7148cda853e5219dab73e40ff03b9831518e0382449c"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.x86_64-w64-mingw32.tar.gz"
+[[libmodplug]]
+arch = "aarch64"
+git-tree-sha1 = "002589e43d91bf7c75090dbdd5fb3cd8582bf472"
+libc = "musl"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "ab2d79a2879bd60e152206ba9e06a6c1c36ad67d9a104cb6edb85f9891601408"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.aarch64-linux-musl.tar.gz"
+[[libmodplug]]
+arch = "i686"
+git-tree-sha1 = "83b5a1d0ad23546d6faa9705d56b5f970545634a"
+libc = "glibc"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "79fbcd9ed83f02f914bde1d05c564cb0738cb9f1b21d5ea44a3171fa83c40e68"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.i686-linux-gnu.tar.gz"
+[[libmodplug]]
+arch = "x86_64"
+git-tree-sha1 = "53914ab4945ee27a910be713f8c1a73289eb9c75"
+libc = "musl"
+os = "linux"
+
+    [[libmodplug.download]]
+    sha256 = "0dc454dde61ae91731d08f154da00164f0f9be69e89d2b8c6a3a6958179fcba8"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.x86_64-linux-musl.tar.gz"
+[[libmodplug]]
+arch = "x86_64"
+git-tree-sha1 = "9e5c1c45dd69ed6392409dc1301c06044ae79ed1"
+os = "freebsd"
+
+    [[libmodplug.download]]
+    sha256 = "af21b054b1ceff5bc6634c1c5c253de77e2392c439b5b81a787e3a5c159a4ce1"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.x86_64-unknown-freebsd11.1.tar.gz"
+[[libmodplug]]
+arch = "i686"
+git-tree-sha1 = "c05ab1ff92d80a4bcd4207ed2ef3d6ba8826dc89"
+os = "windows"
+
+    [[libmodplug.download]]
+    sha256 = "46186aebf4cb4a48cad89c65951708af51f1898e886b08fbeaf800702f8e8e09"
+    url = "https://github.com/JuliaBinaryWrappers/libmodplug_jll.jl/releases/download/libmodplug-v0.8.9+0/libmodplug.v0.8.9.i686-w64-mingw32.tar.gz"

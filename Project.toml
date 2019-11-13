@@ -1,0 +1,10 @@
+name = "libmodplug_jll"
+uuid = "4d619e01-cdd4-5c75-9845-95db0342950b"
+version = "0.8.9+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
